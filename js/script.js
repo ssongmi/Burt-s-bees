@@ -35,6 +35,12 @@ $(function() {
     $menu.on("mouseleave", function() {
         $menu2.stop().slideUp();
     });
+    $menu2.on("mouseenter", function() {
+        $menu2.stop().slideDown();
+    });
+    $menu2.on("mouseleave", function() {
+        $menu2.stop().slideUp();
+    });
 
     $menu_btn.on("click", function() {
         $area_2.animate({
