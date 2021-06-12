@@ -1,0 +1,1 @@
+HTML, CSS, JavaScript, jQuery를 활용해 Burt's bees 웹페이지를 리뉴얼 해 본 프로젝트입니다.
